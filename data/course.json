@@ -1,0 +1,31 @@
+{
+  "term": "Spring",
+  "year": "2027",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "march-13-site-1"
+  },
+  "course_image": {
+    "content": "",
+    "website": "march-13-site-1"
+  },
+  "course_title": "March 13 Site 1 Course",
+  "course_description": "March 13 Site 1 Course desc.",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "13.1",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "march-13-site-1"
+  },
+  "learning_resource_types": [],
+  "site_uid": "cd2bc19a-124b-4c1b-a084-ceaabeacffcd",
+  "site_short_id": "march-13-site-1"
+}
